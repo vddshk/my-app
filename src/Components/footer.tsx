@@ -26,11 +26,11 @@ export default function Footer() {
                             <div className='checkbox'>
                                 <div className='input_label'>
                                     <input type="checkbox" id="agree1" />
-                                    <label for="agree1">Даю согласие на рассылку рекламных материалов, акций и скидок</label>
+                                    <label htmlFor="agree1">Даю согласие на рассылку рекламных материалов, акций и скидок</label>
                                 </div>
                                 <div className='input_label'>
                                     <input type="checkbox" id="agree2" />
-                                    <label for="agree2">Даю согласие на обработку моих персональных данных</label>
+                                    <label htmlFor="agree2">Даю согласие на обработку моих персональных данных</label>
                                 </div>
                             </div>
                             <div>
