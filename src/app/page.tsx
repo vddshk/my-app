@@ -9,10 +9,10 @@ function App() {
         <Header />
         <main>
           <div className="mobile_slider">
-            <img src="Слайдер_mobile.svg" alt="Слайдер" />
+            <img src="/Слайдер_mobile.svg" alt="Слайдер" />
           </div>
           <div className="slider">
-            <img src="Слайдер.svg" alt="Слайдер" />
+            <img src="/Слайдер.svg" alt="Слайдер" />
           </div>
           <div className="cart">
             <div className="cart_short">
